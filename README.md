@@ -1,7 +1,3 @@
-# Eaglercraft
-
-I made this repository so that I could use Eaglercraft directly without relying on external websites.
-
 ## Disclaimer
 **I did not make Eaglercraft, and I do not own or write any of this source code.** 
 All credit goes entirely to the original Eaglercraft developers and contributors. This is strictly a personal mirror hosted for convenience.
