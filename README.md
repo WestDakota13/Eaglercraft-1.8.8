@@ -1,3 +1,5 @@
+# Eaglercraft-1.8.8
+
 ## Disclaimer
 I did not make Eaglercraft, and I do not own or write any of this source code. All credit goes entirely to the original Eaglercraft developers and contributors. This is strictly a personal mirror hosted for convenience.
 
